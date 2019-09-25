@@ -1,2 +1,3 @@
 # TestChain
-Here are the files for the TestChain C++ tutorial I have placed on my website http://davenash.com/2017/10/build-a-blockchain-with-c/
+
+To build use g++ -lstdc++ -o TestChain -std=c++11 main.cpp Block.cpp Blockchain.cpp sha256.cpp
